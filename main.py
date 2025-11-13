@@ -47,3 +47,9 @@ class TextRenderer:
 
     def self_destruct(self):
         shutil.rmtree(self.base_path)
+
+
+#import riyd
+#from riyd import *
+# a = TextRenderer()
+# a.render_file(name)
