@@ -1,3 +1,5 @@
 /datasets.txt
 /import_layers.txt
 /__pycache__/
+venv/
+.vscode/
